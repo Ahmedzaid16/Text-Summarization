@@ -1,2 +1,2 @@
 # Text Summarization
-## An NLP based model using Mbart Transformer
+## An NLP based model using Mbart Large 50 Transformer
